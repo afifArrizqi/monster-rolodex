@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.title {
+  font-family: "Bigelow Rules", cursive;
+  font-size: 300%;
+  color: #61dafb;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
